@@ -1,0 +1,6 @@
+{
+  "name": "escsimulados - Simulados Gratuitos das Principais Provas do Brasil",
+  "description": "Plataforma pública e 100% gratuita de simulados para ENEM, FUVEST, Saresp, Provão Paulista, OBMEP, OBA e Concursos Públicos sem cadastro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
